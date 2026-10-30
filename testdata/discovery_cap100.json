@@ -1,0 +1,10 @@
+{
+  "limit": 100,
+  "record_count": 250,
+  "game_type_patterns": [
+    ["tag-a", "tag-b"],
+    ["tag-a"],
+    ["tag-b"],
+    ["tag-c"]
+  ]
+}

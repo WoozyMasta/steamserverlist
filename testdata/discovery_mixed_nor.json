@@ -1,0 +1,54 @@
+{
+  "map_value": "chernarusplus",
+  "gametype_values": ["etm4.000000", "etm3.000000", "etm6.000000"],
+  "baseline": [{
+      "addr": "198.51.100.1:27015",
+      "map": "chernarusplus",
+      "gametype": ["etm4.000000", "etm3.000000"]
+    },
+    {
+      "addr": "198.51.100.2:27015",
+      "map": "chernarusplus",
+      "gametype": ["other"]
+    },
+    {
+      "addr": "198.51.100.3:27015",
+      "map": "sakhal",
+      "gametype": ["etm4.000000"]
+    },
+    {
+      "addr": "198.51.100.4:27015",
+      "map": "sakhal",
+      "gametype": ["etm3.000000"]
+    },
+    {
+      "addr": "198.51.100.5:27015",
+      "map": "sakhal",
+      "gametype": ["other"]
+    },
+    {
+      "addr": "198.51.100.6:27015",
+      "map": "enoch",
+      "gametype": ["etm4.000000", "etm3.000000"]
+    },
+    {
+      "addr": "198.51.100.7:27015",
+      "map": "enoch",
+      "gametype": ["other"]
+    },
+    {
+      "addr": "198.51.100.8:27015",
+      "map": "namalsk",
+      "gametype": ["etm3.000000"]
+    },
+    {
+      "addr": "198.51.100.9:27015",
+      "map": "sakhal",
+      "gametype": ["etm6.000000"]
+    }
+  ],
+  "mixed_nor_addresses": [
+    "198.51.100.5:27015",
+    "198.51.100.7:27015"
+  ]
+}
